@@ -9,7 +9,7 @@
 > Present the ideal case on how to interact with the prototype from the beginning to the end.
 > Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
 
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+Link: https://youtu.be/iGWHTicpfy0
 
 ---
 
@@ -25,7 +25,6 @@
 ```text
 - User is a male student of Geophysics Engineering Department
 - He has experience using computer to do his assignment and some browsing
-- He never use indosiar online streaming
 ```
 
 #### b. Description of Participant 2
