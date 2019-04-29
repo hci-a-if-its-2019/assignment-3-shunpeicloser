@@ -5,21 +5,12 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
 
 Link: https://youtu.be/iGWHTicpfy0
 
 ---
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
-
 ### 1. Brief Description of Participants
 #### a. Description of Participant 1
 ```text
@@ -33,10 +24,10 @@ Link: https://youtu.be/iGWHTicpfy0
 ```
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
+```text
+- Use "Change Language" feature
+- Open detailed page of a highlighted show (Ex: Kisah Nyata)
+```
 
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
