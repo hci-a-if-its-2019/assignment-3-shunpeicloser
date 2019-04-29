@@ -38,19 +38,30 @@ Link: https://youtu.be/iGWHTicpfy0
 in indosiar**
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
-
-#### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+#### a. Transcript with Participant 1: R
+```
+1. Taufiq   : buka halaman ini (link ke prototype)
+2. R        : sama kayak dulu?
+3. Taufiq   : ada beberapa yang gak, soale fitur About Us gak ada masalah sama 
+              perbaikan fitur pencarian udah di luar scope ini
+4. R        : oalah, oke. Terus?
+5. Taufiq   : pertama, coba gunakan fitur ganti bahasa
+6. (R menemukan tombol untuk mengganti bahasa kurang dari 2 detik)
+7. Taufiq   : oke, untuk selanjutnya coba buka halaman detil dari acara Kisah Nyata
+8. (R membuka halaman detil menggunakan frame acara di bagian bawah)
+9. (R membuka halaman awal)
+10. Taufiq  : apakah ada kesan mengenai halaman ini?
+11. R       : peletakan kotak acaranya udah cukup menurutku. Sekarang kotak acara
+              yang di bawah gak cuma ganti gambar acara di kotak yang atas, langsung
+              ke halaman detilnya
+12. Taufiq  : selanjutnya coba buka daftar video sekalian buka halaman indosiar 
+              bagian video
+13. R       : terus?
+14. Taufiq  : menurut pendapatmu gimana?
+15. R       : lebih enak aslinya sih. Punyamu gak ada pembagian berdasarkan acara, 
+              susah buat nyari videonya
+16. Taufiq  : Oke, makasih waktunya
+```
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -62,33 +73,24 @@ in indosiar**
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+![obs1](/img/indosiar_hi-fid_proto_main_azab.png)
+
+ - **Reference** : 11
+ - **Feedback**  : The frame's position is good and direct (no need to click the bottom frame and click the upper frame
+ - **Incidence** : -
+ - **Reason**    : -
+ - **Resolution**: -
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
- 
-#### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+![obs2](/img/indosiar_proto.png)
 
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
+ - **Reference** : 15
+ - **Feedback**  : The former (indosiar) is better because of its sectioning
+ - **Incidence** : -
+ - **Reason**    : -
+ - **Resolution**: Display the videos like the prototype with with addition of sectioning.
  
  ---
 
@@ -100,8 +102,6 @@ in indosiar**
 > Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
 > Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
 > Please make sure the any texts on the sketch are readable.
-
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
 
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
