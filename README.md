@@ -28,6 +28,10 @@ Link: https://youtu.be/iGWHTicpfy0
 - Use "Change Language" feature
 - Open detailed page of a highlighted show (Ex: Kisah Nyata)
 ```
+**Note: 2 problems from CI are not included with following reason.**
+- **finding "About Us" are not a significant problem according to user R in CI**
+- **problem "Searching Shows" are classified as functional problem, thus the solution will not**
+**be included in this prototype**
 
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
