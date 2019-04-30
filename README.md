@@ -105,7 +105,7 @@ in indosiar**
  - **Feedback**  : The former (indosiar) is better because of its sectioning
  - **Incidence** : -
  - **Reason**    : -
- - **Resolution**: Display the videos like the prototype with with addition of sectioning.
+ - **Resolution**: Display the videos like the prototype with addition of sectioning.
  
  ---
 
