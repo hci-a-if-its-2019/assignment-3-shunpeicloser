@@ -77,7 +77,8 @@ in indosiar**
 8. A        : kesan gimana?
 9. Taufiq   : ya kesan selama memakai ini
 10. A       : oke oke aja sih
-11. Taufiq  : selanjutnya coba buka daftar video sekalian buka halaman indosiar bagian video. Gimana menurutmu?
+11. Taufiq  : selanjutnya coba buka daftar video sekalian buka halaman indosiar bagian video.
+              Gimana menurutmu?
 12. A       : kalo aku lebih suka yang ini (prototype), keliatan bagus
 13. Taufiq  : ada pendapat lagi?
 14. A       : hmm, gak ada lagi kayake
@@ -114,12 +115,21 @@ in indosiar**
 > based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
+**Solution 1**
+---
 ![sketch1](/img/sketch1.png)
-
+---
+**Solution 2**
+---
+![sketch2](/img/sketch2.png)
+---
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+```
+According to participant 1, the Video page of previous prototype lack in sectioning, but not
+so for participant 2. The writer infer this case happened because of the experience of
+participant 1 from the CI when R find difficulties in searching for a certain video.
 
+The solution 2 will be used to tackle the way videos shown to user because of its simplicity.
+```
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+Link: https://invis.io/BCRSGC1AE8S
