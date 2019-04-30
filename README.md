@@ -12,15 +12,17 @@ Link: https://youtu.be/iGWHTicpfy0
 
 ## Part A: Usability Evaluation
 ### 1. Brief Description of Participants
-#### a. Description of Participant 1
+#### a. Description of Participant 1: R
 ```text
-- User is a male student of Geophysics Engineering Department
+- User is a male student of ITS Geophysics Engineering Department
 - He has experience using computer to do his assignment and some browsing
 ```
 
-#### b. Description of Participant 2
+#### b. Description of Participant 2: A
 ```text
--
+- User is a male student of ITS Mathematic Departement
+- He has experience using computer to do his assignment
+- He never visit indosiar webpage
 ```
 
 ### 2. Evaluation Script
@@ -63,11 +65,24 @@ in indosiar**
 16. Taufiq  : Oke, makasih waktunya
 ```
 
-#### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+#### b. Transcript with Participant 2: A
+```
+1. Taufiq   : coba buka link ini (link ke prototype)
+2. A        : oke, terus?
+3. Taufiq   : pertama, coba gunakan fitur ganti bahasa
+4. A        : ini udah
+5. Taufiq   : sip, untuk selanjutnya coba buka halaman detil dari acara Panggung Gembira
+6. (A membuka halaman detil menggunakan frame acara atas)
+7. Taufiq   : gimana kesanmu?
+8. A        : kesan gimana?
+9. Taufiq   : ya kesan selama memakai ini
+10. A       : oke oke aja sih
+11. Taufiq  : selanjutnya coba buka daftar video sekalian buka halaman indosiar bagian video. Gimana menurutmu?
+12. A       : kalo aku lebih suka yang ini (prototype), keliatan bagus
+13. Taufiq  : ada pendapat lagi?
+14. A       : hmm, gak ada lagi kayake
+15. Taufiq  : Oke, makasih bantuannya ya
+```
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
@@ -76,7 +91,7 @@ in indosiar**
 
 ![obs1](/img/indosiar_hi-fid_proto_main_azab.png)
 
- - **Reference** : 11
+ - **Reference** : Participant 1, 11
  - **Feedback**  : The frame's position is good and direct (no need to click the bottom frame and click the upper frame
  - **Incidence** : -
  - **Reason**    : -
@@ -86,7 +101,7 @@ in indosiar**
 
 ![obs2](/img/indosiar_proto.png)
 
- - **Reference** : 15
+ - **Reference** : Participant 1, 15
  - **Feedback**  : The former (indosiar) is better because of its sectioning
  - **Incidence** : -
  - **Reason**    : -
@@ -99,9 +114,7 @@ in indosiar**
 > based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
+![sketch1](/img/sketch1.png)
 
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
